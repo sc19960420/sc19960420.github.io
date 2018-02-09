@@ -753,7 +753,19 @@
 	#header-wrapper
 	{
 		padding: 0em;
-		background: #333 url(../images/banner.jpg) no-repeat center;
+		background: #333 url(../images/index.jpg) no-repeat center;
+		background-size: cover;
+	}
+	#header-technology
+	{
+		padding: 0em;
+		background: #333 url(../images/technology.jpg) no-repeat center;
+		background-size: cover;
+	}
+	#header-game
+	{
+		padding: 0em;
+		background: #333 url(../images/change.jpg) no-repeat center;
 		background-size: cover;
 	}
 
